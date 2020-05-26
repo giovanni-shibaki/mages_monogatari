@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Inimigo
+  - Cenario
+  - waypoints
+  - Moeda1
+  - Moeda5
+  - Moeda10
+  - Moeda20
+  - Moeda50
   layers:
   - Default
   - TransparentFX
